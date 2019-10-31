@@ -1,4 +1,4 @@
-## My List of Open Source Contributions 
+## Welcome! 
 
 Hello 👋! If you've found this repository you already know that my name is Victoria Fluharty. What you probably don't know is that I go by **Tori**. 
 
@@ -9,6 +9,8 @@ Welcome to my open source contribution list! I have chosen to create this list o
 As a new developer I found contributing to open source very intimidating. 😱 It wasn't until October 2019, during [Hacktoberfest 🎃](https://hacktoberfest.digitalocean.com/), that I finally took a leap of faith and jumped into the world of the open source community. 
 
 I wrote a blog post all about it, which you can find [here ✍️](https://dev.to/torianne02/hacktoberfest-getting-over-the-fear-of-open-source-41kg).
+
+## Contributions
 
 ### Code 💻
 
