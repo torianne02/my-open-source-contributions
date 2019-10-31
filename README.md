@@ -1,4 +1,4 @@
-# Welcome to my Open Source Contribution List
+# Welcome to My Open Source Contribution List
 
 Hello 👋! If you've found this repository you already know that my name is Victoria Fluharty. What you probably don't know is that I go by **Tori**. 
 
