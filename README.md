@@ -14,15 +14,15 @@ I wrote a blog post all about it, which you can find [here ✍️](https://dev.t
 
 ### Code 💻
 
-+ DEV - [fixes bug in tag search feature](https://github.com/thepracticaldev/dev.to/pull/4222)
-+ firstRubyGem - [adds class and method for mickey mouse ascii art](https://github.com/mackied0g/firstRubyGem/pull/18)
++ DEV - [fixes bug in tag search feature](https://github.com/thepracticaldev/dev.to/pull/4222) - *Oct 2019*
++ firstRubyGem - [adds class and method for mickey mouse ascii art](https://github.com/mackied0g/firstRubyGem/pull/18) - *Oct 2019*
 
 ### Documentation 📝
 
-+ Vulnerability History Project - [updates CVE-2010-1505 nickname](https://github.com/VulnerabilityHistoryProject/chromium-vulnerabilities/pull/273)
++ Vulnerability History Project - [updates CVE-2010-1505 nickname](https://github.com/VulnerabilityHistoryProject/chromium-vulnerabilities/pull/273) - *Oct 2019*
 
 ### Hybrid ( 💻 + 📝 )
 
-+ legesher - [feat: adds "all-contributors" contribution types](https://github.com/legesher/legesher-docs/pull/33)
++ legesher - [feat: adds "all-contributors" contribution types](https://github.com/legesher/legesher-docs/pull/33) - *Oct 2019*
 
 #### ... more contributions coming soon!!
