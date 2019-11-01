@@ -24,3 +24,5 @@ I wrote a blog post all about it, which you can find [here ✍️](https://dev.t
 ### Hybrid ( 💻 + 📝 )
 
 + legesher - [feat: adds "all-contributors" contribution types](https://github.com/legesher/legesher-docs/pull/33)
+
+#### ... more contributions coming soon!!
