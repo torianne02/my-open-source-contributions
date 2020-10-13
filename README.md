@@ -22,6 +22,7 @@ I wrote a blog post all about it, which you can find [here ✍️](https://dev.t
 
 + Vulnerability History Project - [updates CVE-2010-1505 nickname](https://github.com/VulnerabilityHistoryProject/chromium-vulnerabilities/pull/273) - *Oct 2019*
 + Moms Learn Tech - [[Mom Friendly Companies]: adds FireHydrant to Companies with Flexible Work Schedules](https://github.com/BekahHW/Moms-Learn-Tech/pull/21) - *Oct 2020*
++ Moms Learn Tech - [[Mom Friendly Companies]: adds Facebook to paid returnships section](https://github.com/BekahHW/Moms-Learn-Tech/pull/25) - *Oct 2020*
 
 ### Hybrid ( 💻 + 📝 )
 
